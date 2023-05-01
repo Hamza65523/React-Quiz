@@ -1,0 +1,120 @@
+[
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the name of the hero in the 80s animated video game 'Dragon's Lair'?",
+    "correct_answer": "Dirk the Daring",
+    "incorrect_answers": [
+      "Arthur",
+      "Sir Toby Belch",
+      "Guy of Gisborne"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the scientific name for modern day humans?",
+    "correct_answer": "Homo Sapiens",
+    "incorrect_answers": [
+      "Homo Ergaster",
+      "Homo Erectus",
+      "Homo Neanderthalensis"
+    ]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is Ron Weasley's middle name?",
+    "correct_answer": "Billius",
+    "incorrect_answers": [
+      "Arthur",
+      "John",
+      "Dominic"
+    ]
+  },
+  {
+    "category": "Entertainment: Comics",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is the creator of the comic series 'The Walking Dead'?",
+    "correct_answer": "Robert Kirkman",
+    "incorrect_answers": [
+      "Stan Lee",
+      "Malcolm Wheeler-Nicholson",
+      "Robert Crumb"
+    ]
+  },
+  {
+    "category": "Entertainment: Board Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "At the start of a standard game of Monopoly, if you throw a double six, which square would you land on?",
+    "correct_answer": "Electric Company",
+    "incorrect_answers": [
+      "Water Works",
+      "Chance",
+      "Community Chest"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the capital of Jamaica?",
+    "correct_answer": "Kingston",
+    "incorrect_answers": [
+      "Rio de Janeiro",
+      "Dar es Salaam",
+      "Kano"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When did Jamaica receive its independence from England?",
+    "correct_answer": "1962",
+    "incorrect_answers": [
+      "1492",
+      "1963",
+      "1987"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Kangaroos keep food in their pouches next to their children.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In 2013 how much money was lost by Nigerian scams?",
+    "correct_answer": "$12.7 Billion",
+    "incorrect_answers": [
+      "$95 Million",
+      "$956 Million",
+      "$2.7 Billion"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How old was Lyndon B. Johnson when he assumed the role of President of the United States?",
+    "correct_answer": "55",
+    "incorrect_answers": [
+      "50",
+      "60",
+      "54"
+    ]
+  }
+]
